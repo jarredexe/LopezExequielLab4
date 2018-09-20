@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LopezExequielLab4</string>
+    <string name="_0_kilometers">0 kilometers</string>
+    <string name="main_building">Main Building</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="location">Location:</string>
+    <string name="espa_a_blvd">España Blvd.</string>
+    <string name="back">BACK</string>
+    <string name="styles_amp_material_design"><![CDATA[Styles & Material Design]]></string>
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+    <string name="snackbar_message">Peek-a-boo!</string>
+</resources>
